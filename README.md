@@ -1,4 +1,4 @@
-
+[click on this link](#Taking-Input)
 ## 1.Basics
 
 Basic syntax and functions from the Java programming language.
