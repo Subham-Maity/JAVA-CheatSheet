@@ -1,5 +1,5 @@
-* [Basic](#Basics)
-* [Primitive Type Variables](#Primitive-Type-Variables)
+* [Basic](#1.Basics)
+* [Primitive Type Variables](#2.Primitive-Type-Variables)
 * [Comments](#Comments)
 * [Basic](#Basics)
 * [Basic](#Basics)
