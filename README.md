@@ -1,6 +1,6 @@
 ## Table of Contents
 
-* [Chapter 01 - Introduction to Programming with Print-Multiplication-Table](#1.Basics)
+* [Chapter 01 - Introduction to Programming with Print-Multiplication-Table](##1.Basics)
 * [Chapter 02 - Understanding Methods](#understanding-methods)
 * [Chapter 03 - Understanding the Java Platform](#understanding-the-java-platform)
 * [Chapter 04 - Eclipse](#eclipse)
