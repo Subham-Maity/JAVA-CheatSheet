@@ -1,5 +1,5 @@
-* [Basic](#1-.-basics)
-* [Primitive Type Variables](#2-.-primitive-type-variables)
+* [Basic](#basics)
+* [Primitive Type Variables](#primitive-type-variables)
 * [Comments](#Comments)
 * [Basic](#Basics)
 * [Basic](#Basics)
@@ -16,7 +16,9 @@
 * [Basic](#Basics)
 * [Basic](#Basics)
 
-## 1.Basics
+
+
+## Basics
 
 Basic syntax and functions from the Java programming language.
 
@@ -62,7 +64,7 @@ String varName = input.nextLine();
 
 
 
-## 2.Primitive Type Variables
+## Primitive Type Variables
 
 The eight primitives defined in Java are int, byte, short, long, float, double, boolean, and char those aren't considered objects and represent raw values.
 
@@ -144,7 +146,7 @@ short var2 = 786;
 
 
 
-## 3.Comments
+## Comments
 
 A comment is the code that is not executed by the compiler, and the programmer uses it to keep track of the code.
 
@@ -170,7 +172,7 @@ comment
 
 
 
-## 4.Constants
+## Constants
 
 Constants are like a variable, except that their value never changes during program execution.
 
@@ -181,7 +183,7 @@ final float INTEREST_RATE = 0.04;
 
 
 
-## 5.Arithmetic Expressions
+## Arithmetic Expressions
 
 These are the collection of literals and arithmetic operators.
 
@@ -242,7 +244,7 @@ int x = 10 % 3;
 
 
 
-## 6.Augmented Operators
+## Augmented Operators
 
 
 ### Addition assignment
@@ -290,7 +292,7 @@ var %= 10 // var = var % 10
 
 
 
-## 7.Escape Sequences
+## Escape Sequences
 
 It is a sequence of characters starting with a backslash, and it doesn't represent itself when used inside string literal.
 
@@ -358,7 +360,7 @@ It adds a double quotation mark
 
 
 
-## 8.Type Casting
+## Type Casting
 
 Type Casting is a process of converting one data type into another
 
@@ -387,7 +389,7 @@ int var_name = (int)x;
 
 
 
-## 9.Decision Control Statements
+## Decision Control Statements
 
 Conditional statements are used to perform operations based on some condition.
 
@@ -436,7 +438,7 @@ if (condition1) {
 
 
 
-## 10.Ternary Operator
+## Ternary Operator
 
 It is shorthand for an if-else statement.
 
@@ -447,7 +449,7 @@ variable = (condition) ? expressionTrue : expressionFalse;
 
 
 
-## 11.Switch Statements
+## Switch Statements
 
 It allows a variable to be tested for equality against a list of values (cases).
 
@@ -467,7 +469,7 @@ switch(expression) {
 
 
 
-## 12.Iterative Statements
+## Iterative Statements
 
 Iterative statements facilitate programmers to execute any block of code lines repeatedly and can be controlled as per conditions added by the coder.
 
@@ -546,7 +548,7 @@ continue;
 
 
 
-## 13.Arrays
+## Arrays
 
 Arrays are used to store multiple values in a single variable
 
@@ -640,7 +642,7 @@ int[2][3] matrix = {
 
 
 
-## 14.Methods
+## Methods
 
 Methods are used to divide an extensive program into smaller pieces. It can be called multiple times to provide reusability to the program.
 
@@ -712,7 +714,7 @@ recurse();
 
 
 
-## 15.Strings
+## Strings
 
 It is a collection of characters surrounded by double quotes.
 
@@ -787,7 +789,7 @@ System.out.println(var1.concat(var2));
 
 
 
-## 16.Math Class
+## Math Class
 
 Math class allows you to perform mathematical operations.
 
@@ -838,7 +840,7 @@ int random_num = (int)(Math.random() * 101); //Random num b/w 0 and 100
 
 
 
-## 17.Object-Oriented Programming
+## Object-Oriented Programming
 
 It is a programming approach that primarily focuses on using objects and classes. The objects can be any real-world entities.
 
@@ -965,7 +967,7 @@ public class Adder {
 
 
 
-## 18.File Operations
+## File Operations
 
 File handling refers to reading or writing data from files. Java provides some functions that allow us to manipulate data in the files.
 
@@ -1115,7 +1117,7 @@ e.printStackTrace();
 
 
 
-## 19.Exception Handling
+## Exception Handling
 
 An exception is an unusual condition that results in an interruption in the flow of the program.
 
