@@ -1,4 +1,4 @@
-* [Basic](#basics)
+* [Basic](#1-.-basics)
 * [Primitive Type Variables](#2-.-primitive-type-variables)
 * [Comments](#Comments)
 * [Basic](#Basics)
@@ -16,7 +16,7 @@
 * [Basic](#Basics)
 * [Basic](#Basics)
 
-## Basics
+## 1.Basics
 
 Basic syntax and functions from the Java programming language.
 
