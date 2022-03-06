@@ -601,7 +601,7 @@ Changing any element in an array
 
 ```
 String[] var_name = {"Name1", "name2", "name3"};
-var_name[2] = "Shubham";
+var_name[2] = "Subham";
 ```
 
 
@@ -730,7 +730,7 @@ It is a collection of characters surrounded by double quotes.
 
 
 ```
-String var_name = "Hello World";
+String var_name = "Subham Maity";
 ```
 
 
@@ -741,7 +741,7 @@ Returns the length of the string
 
 
 ```
-String var_name = "Harry";
+String var_name = "Subham";
 System.out.println("The length of the string is: " + var_name.length());
 ```
 
@@ -753,7 +753,7 @@ Convert the string into uppercase
 
 
 ```
-String var_name = "Harry";
+String var_name = "Subham";
 System.out.println(var_name.toUpperCase());
 ```
 
@@ -765,7 +765,7 @@ Convert the string into lowercase
 
 
 ```
-String var_name = ""Harry"";
+String var_name = ""Subham"";
 System.out.println(var_name.toLowerCase());
 ```
 
@@ -777,7 +777,7 @@ Returns the index of specified character from the string
 
 
 ```
-String var_name = "Harry";
+String var_name = "Subham";
 System.out.println(var_name.indexOf("a"));
 ```
 
@@ -789,8 +789,8 @@ Used to concatenate two strings
 
 
 ```
-String var1 = "Harry";
-String var2 = "Bhai";
+String var1 = "Subham";
+String var2 = "Bro";
 System.out.println(var1.concat(var2));
 ```
 
@@ -1111,7 +1111,7 @@ public class WriteToFile {
 public static void main(String[] args) {
 try {
 FileWriter myWriter = new FileWriter("filename.txt");
-myWriter.write("Laal Phool Neela Phool, Harry Bhaiya Beautiful");
+myWriter.write("CodeXam is your brother");
 myWriter.close();
 System.out.println("Successfully wrote to the file.");
 } catch (IOException e) {
