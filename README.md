@@ -1,4 +1,20 @@
-* [click on this link](#Taking-Input)
+* [Basic](#Basics)
+* [Primitive Type Variables](#Primitive-Type-Variables)
+* [Comments](#Comments)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
+* [Basic](#Basics)
 
 ## 1.Basics
 
